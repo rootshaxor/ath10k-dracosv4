@@ -1,5 +1,6 @@
-#Linux dracOs 4.20.13_dracOs_4_santet x86_64 GNU/Linux
-#Solved Wireless ATH10k on Dracos Linux v4 Santet
+# Solved Wireless ATH10k on Dracos Linux v4 Santet
+### Linux dracOs 4.20.13_dracOs_4_santet x86_64 GNU/Linux
+
 
 ### list frimware :
 - QCA4019
